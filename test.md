@@ -4,4 +4,4 @@ Malo mijenjam dokument #1
 ups #2
 Kod koji je ok
 la la la
-
+la la local
